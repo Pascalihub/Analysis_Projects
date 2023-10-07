@@ -14,3 +14,4 @@ I really do hope this is helpful and helps you land that dream job! :D
 
 
 [Diabetes analysis.pdf](https://github.com/Pascalihub/Analysis_Projects/files/12836257/Diabetes.analysis.pdf)
+![Power BI Desktop 10_6_2023 6_46_52 PM](https://github.com/Pascalihub/Analysis_Projects/assets/111619420/9fa6788b-deda-419c-8014-43d82bae927c)
